@@ -23,8 +23,3 @@ Make sure you have Python installed on your system. The following Python librari
 You can install the required libraries using `pip`:
 
 !pip install pytube moviepy
-
-#license
-©️ 2024 Preksha Dadoo
-
-This repository is licensed under the MIT license. See LICENSE for details.
