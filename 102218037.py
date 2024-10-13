@@ -5,8 +5,9 @@ import yt_dlp
 from moviepy.editor import concatenate_videoclips, VideoFileClip
 
 video_urls = [
-    "https://www.youtube.com/watch?v=VIDEO_ID_1",
-    "https://www.youtube.com/watch?v=VIDEO_ID_2",
+    "https://www.youtube.com/watch?v=WMweEpGlu_U",
+    "https://www.youtube.com/watch?v=kTlv5_Bs8aw",
+    "https://www.youtube.com/watch?v=gdZLi9oWNZg"
 ]
 
 output_dir = "downloaded_clips"
